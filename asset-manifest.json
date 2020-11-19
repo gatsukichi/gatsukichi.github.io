@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gatsukichi.github.io/static/css/main.0874961a.chunk.css",
-    "main.js": "/gatsukichi.github.io/static/js/main.90e5864f.chunk.js",
-    "main.js.map": "/gatsukichi.github.io/static/js/main.90e5864f.chunk.js.map",
-    "runtime-main.js": "/gatsukichi.github.io/static/js/runtime-main.f83d0360.js",
-    "runtime-main.js.map": "/gatsukichi.github.io/static/js/runtime-main.f83d0360.js.map",
-    "static/js/2.f15fc627.chunk.js": "/gatsukichi.github.io/static/js/2.f15fc627.chunk.js",
-    "static/js/2.f15fc627.chunk.js.map": "/gatsukichi.github.io/static/js/2.f15fc627.chunk.js.map",
-    "static/js/3.ac150f8b.chunk.js": "/gatsukichi.github.io/static/js/3.ac150f8b.chunk.js",
-    "static/js/3.ac150f8b.chunk.js.map": "/gatsukichi.github.io/static/js/3.ac150f8b.chunk.js.map",
-    "index.html": "/gatsukichi.github.io/index.html",
-    "static/css/main.0874961a.chunk.css.map": "/gatsukichi.github.io/static/css/main.0874961a.chunk.css.map",
-    "static/js/2.f15fc627.chunk.js.LICENSE.txt": "/gatsukichi.github.io/static/js/2.f15fc627.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/gatsukichi.github.io/static/media/back.278d80d5.jpg"
+    "main.css": "/static/css/main.73a200b1.chunk.css",
+    "main.js": "/static/js/main.90e5864f.chunk.js",
+    "main.js.map": "/static/js/main.90e5864f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df7f49ef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df7f49ef.js.map",
+    "static/js/2.340eb3f5.chunk.js": "/static/js/2.340eb3f5.chunk.js",
+    "static/js/2.340eb3f5.chunk.js.map": "/static/js/2.340eb3f5.chunk.js.map",
+    "static/js/3.ac150f8b.chunk.js": "/static/js/3.ac150f8b.chunk.js",
+    "static/js/3.ac150f8b.chunk.js.map": "/static/js/3.ac150f8b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.73a200b1.chunk.css.map": "/static/css/main.73a200b1.chunk.css.map",
+    "static/js/2.340eb3f5.chunk.js.LICENSE.txt": "/static/js/2.340eb3f5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/back.278d80d5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f83d0360.js",
-    "static/js/2.f15fc627.chunk.js",
-    "static/css/main.0874961a.chunk.css",
+    "static/js/runtime-main.df7f49ef.js",
+    "static/js/2.340eb3f5.chunk.js",
+    "static/css/main.73a200b1.chunk.css",
     "static/js/main.90e5864f.chunk.js"
   ]
 }
