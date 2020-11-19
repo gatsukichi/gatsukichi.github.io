@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/katsukichi.guitar.io/static/css/main.f0ed360d.chunk.css",
+    "main.js": "/katsukichi.guitar.io/static/js/main.3b18ffcb.chunk.js",
+    "main.js.map": "/katsukichi.guitar.io/static/js/main.3b18ffcb.chunk.js.map",
+    "runtime-main.js": "/katsukichi.guitar.io/static/js/runtime-main.4093e2c1.js",
+    "runtime-main.js.map": "/katsukichi.guitar.io/static/js/runtime-main.4093e2c1.js.map",
+    "static/js/2.0ddc7d0d.chunk.js": "/katsukichi.guitar.io/static/js/2.0ddc7d0d.chunk.js",
+    "static/js/2.0ddc7d0d.chunk.js.map": "/katsukichi.guitar.io/static/js/2.0ddc7d0d.chunk.js.map",
+    "static/js/3.ac150f8b.chunk.js": "/katsukichi.guitar.io/static/js/3.ac150f8b.chunk.js",
+    "static/js/3.ac150f8b.chunk.js.map": "/katsukichi.guitar.io/static/js/3.ac150f8b.chunk.js.map",
+    "index.html": "/katsukichi.guitar.io/index.html",
+    "static/css/main.f0ed360d.chunk.css.map": "/katsukichi.guitar.io/static/css/main.f0ed360d.chunk.css.map",
+    "static/js/2.0ddc7d0d.chunk.js.LICENSE.txt": "/katsukichi.guitar.io/static/js/2.0ddc7d0d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/katsukichi.guitar.io/static/media/back.278d80d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4093e2c1.js",
+    "static/js/2.0ddc7d0d.chunk.js",
+    "static/css/main.f0ed360d.chunk.css",
+    "static/js/main.3b18ffcb.chunk.js"
+  ]
+}
